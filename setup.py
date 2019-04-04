@@ -11,7 +11,8 @@ setup(
     packages=["removeurl"],
     version="0.2",
     license="GPL3",
-    description="Python3 module to remove URLs in strings.",
+    description="Python3 module to remove URLs which "\
+        "start with http or https in strings.",
     long_description=readme,
     long_description_content_type="text/markdown",
     author="Carlos A. Planchón",
