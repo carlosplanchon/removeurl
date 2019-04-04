@@ -9,7 +9,7 @@ with open("README.md", "r") as f:
 setup(
     name="removeurl",
     packages=["removeurl"],
-    version="0.1",
+    version="0.2",
     license="GPL3",
     description="Python3 module to remove URLs in strings.",
     long_description=readme,
@@ -18,7 +18,7 @@ setup(
     author_email="bubbledoloresuruguay2@gmail.com",
     url="https://github.com/carlosplanchon/removeurl",
     download_url="https://github.com/carlosplanchon/"
-        "removeurl/archive/v0.1.tar.gz",
+        "removeurl/archive/v0.2.tar.gz",
     keywords=["remove", "url", "regex"],
     classifiers=[
         "Intended Audience :: Developers",
