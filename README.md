@@ -1,5 +1,5 @@
 # removeurl
-*Python3 module to remove URLs in strings.*
+*Python3 module to remove URLs which start with http or https in strings.*
 
 ## Installation
 ### Install with pip
